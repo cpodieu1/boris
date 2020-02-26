@@ -1,1 +1,3 @@
-# yankep
+# maven-project
+
+Simple Maven Project
